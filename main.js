@@ -68,7 +68,7 @@ for(let i = 0; i < rotune.length; i++){
     return todo.text;
   });
   
-  console.log(todoTextArray);
+  // console.log(todoTextArray);
   
   // filter() - Returns array based on condition
   const todo1 = rotune.filter(function(todo) {
